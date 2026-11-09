@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+products.csv
+pricescout-sheet.xlsx
+*.xlsx
+!examples/*.xlsx
+.venv/
